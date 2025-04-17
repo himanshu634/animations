@@ -1,3 +1,5 @@
+import ThreeJsScrollTracker from "@/components/single";
+
 export default function Page() {
-  return <div>Animation..</div>;
+  return <ThreeJsScrollTracker />;
 }
